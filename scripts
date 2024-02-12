@@ -1,0 +1,4 @@
+# utilisiser le module ping pour faire un ping 
+ansible all -m ping -u user -k 
+# lancer un playbook
+ansible-playbook name-playbook -u user -k
