@@ -2,3 +2,8 @@
 ansible all -m ping -u user -k 
 # lancer un playbook
 ansible-playbook name-playbook -u user -k
+
+#links
+https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html#installing-ansible-on-ubuntu
+
+https://docs.ansible.com/ansible/latest/collections/index.html
